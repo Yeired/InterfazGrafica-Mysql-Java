@@ -1,0 +1,1 @@
+{"servidor":"localhost","password":"","puerto":"3306","usuario":"root"}
